@@ -1,0 +1,10 @@
+# 论文 PDF 与抽取出的纯文本不随仓库分发（许可原因，见 NOTICE.md）
+*.pdf
+paper_v3.txt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地临时产物
+.DS_Store
